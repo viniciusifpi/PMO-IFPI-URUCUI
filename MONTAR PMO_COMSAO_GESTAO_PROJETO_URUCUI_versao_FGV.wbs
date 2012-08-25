@@ -26,23 +26,31 @@
 			<task ID="8" UniqueID="22" OutlineLevel="4" Name="Definicao de Requerimentos Tecnologicos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="9" UniqueID="23" OutlineLevel="4" Name="Definicao de requerimentos de Recursos Humandos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="10" UniqueID="26" OutlineLevel="3" Name="Determinacao das necessidades de Treinamento" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="11" UniqueID="3" OutlineLevel="2" Name="IDENTIFICAR AS PESSOAS CERTAS PARA TRABALHAR NO PMO" Duration="1d" RemainingDuration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="12" UniqueID="12" OutlineLevel="3" Name="divulga&#231;&#227;o de edital de sele&#231;&#227;o" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="13" UniqueID="13" OutlineLevel="3" Name="sele&#231;&#227;o" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="14" UniqueID="14" OutlineLevel="3" Name="Convocacao" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="15" UniqueID="4" OutlineLevel="2" Name="ESTABELECER A METODOLOGIA COMUM PARA CONDUZIR  OS PROJETOS" Duration="1d" RemainingDuration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="16" UniqueID="8" OutlineLevel="3" Name="Elabora&#231;&#227;o de Artigo Sobre Metodologias Existentes no setor Publico" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="17" UniqueID="10" OutlineLevel="3" Name="AQUISICAO DE TREINAMENTO E CONSULTORIA EXTENA EM GESTAO DE PROJETOS E PMO" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="18" UniqueID="5" OutlineLevel="2" Name="ESTABELECER O PLANO DO PROGRAMA DE REESTRUTURA&#199;&#195;O" Duration="1d" RemainingDuration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="19" UniqueID="16" OutlineLevel="3" Name="CONSIENTIZACAO" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="20" UniqueID="17" OutlineLevel="3" Name="Legalizacao" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="21" UniqueID="6" OutlineLevel="2" Name="ESTABELECER O PLANO DE COMUNICA&#199;&#195;O" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="22" UniqueID="7" OutlineLevel="2" Name="SELECIONAR UM SOFTWARE(S) PARA O ESCRITORIO DE PROJETOS" Duration="1d" RemainingDuration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="23" UniqueID="9" OutlineLevel="3" Name="Elabora&#231;ao de artigo sobre softwares dispon&#237;veis para automatizar as metodologias existentes no setor publico" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="24" UniqueID="11" OutlineLevel="3" Name="VOTACAO DE PROPOSTA DE CONJUNTO DE SOFTWARES PARA A COMISSAO" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="25" UniqueID="15" OutlineLevel="3" Name="AQUISICAO DOS SOFTWARE(S)" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="11" UniqueID="27" OutlineLevel="2" Name="Fase de Implementacao" Duration="1d" RemainingDuration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="12" UniqueID="28" OutlineLevel="3" Name="Desenvolvimento de processos de gestao" Duration="1d" RemainingDuration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="13" UniqueID="30" OutlineLevel="4" Name="definir metodologia de gerenciamento de projetos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="14" UniqueID="31" OutlineLevel="4" Name="Padroes de Documentacao" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="15" UniqueID="32" OutlineLevel="4" Name="Procedimentos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="16" UniqueID="29" OutlineLevel="3" Name="Desenvolver ferramentas, templates e  metricas" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="17" UniqueID="33" OutlineLevel="3" Name="Selecionar os Projetos Pilotos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="18" UniqueID="34" OutlineLevel="3" Name="Conduzir os Projetos Pilotos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="19" UniqueID="35" OutlineLevel="3" Name="Avaliar Os Projetos Pilotos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="20" UniqueID="36" OutlineLevel="3" Name="Refinar os Processos de Gerenciamento de Projetos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="21" UniqueID="37" OutlineLevel="3" Name="Iniciar a Inclusao de Projetos Adicionais ao Novo Processo de Gerenciamento" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="22" UniqueID="38" OutlineLevel="2" Name="Educa&#231;&#227;o e Treinamento" Duration="1d" RemainingDuration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="23" UniqueID="39" OutlineLevel="3" Name="Identificar Treinamentos Necess&#225;rios" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="24" UniqueID="40" OutlineLevel="3" Name="Desenvolver Plano de Carreira para Gerenciamento de Projetos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="25" UniqueID="41" OutlineLevel="3" Name="Selecionar Treinadores em Gerenciamento de Projetos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="26" UniqueID="42" OutlineLevel="3" Name="Desenvolver Cursos de Gerenciaimento de Projetos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="27" UniqueID="43" OutlineLevel="3" Name="Fornecer Treinamento em Gerenciamento de Projetos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="28" UniqueID="6" OutlineLevel="2" Name="Encerramento e Licoes aprendidas" Duration="1d" RemainingDuration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="29" UniqueID="44" OutlineLevel="3" Name="Buscar FeedBack dos Stackholders" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="30" UniqueID="45" OutlineLevel="3" Name="Avaliar os Resultados dos Projetos" Duration="1d" Start="2011-08-22T08:00" Finish="2011-08-22T17:00" EarlyStart="2011-08-22T08:00" EarlyFinish="2011-08-22T17:00" LateStart="2011-08-22T08:00" LateFinish="2011-08-22T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="10"/>
+		<outline current="45">
+			<collapse uid="24"/>
+			<collapse uid="28"/>
+		</outline>
 	</proj>
 	<printInfo mode="scale" orient="landscape" pagesWide="1" pagesHigh="1" scale="100%" bw="no" enlarge="no" byColumn="no" adjustPageBreaks="no" marginTop="36pt" marginLeft="36pt" marginBottom="36pt" marginRight="36pt"/>
 	<pageLayouts>
@@ -490,35 +498,50 @@
 	<treediff id="23">
 		<item listmode="stemleft"/>
 	</treediff>
-	<treediff id="12">
+	<treediff id="28">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="30">
 		<item listmode="stemleft"/>
 	</treediff>
-	<treediff id="13">
+	<treediff id="31">
 		<item listmode="stemleft"/>
 	</treediff>
-	<treediff id="14">
+	<treediff id="32">
 		<item listmode="stemleft"/>
 	</treediff>
-	<treediff id="8">
+	<treediff id="29">
 		<item listmode="stemleft"/>
 	</treediff>
-	<treediff id="10">
+	<treediff id="33">
 		<item listmode="stemleft"/>
 	</treediff>
-	<treediff id="16">
+	<treediff id="34">
 		<item listmode="stemleft"/>
 	</treediff>
-	<treediff id="17">
+	<treediff id="35">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="36">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="37">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="39">
 		<item listmode="stemleft"/>
 	</treediff>
-	<treediff id="9">
+	<treediff id="40">
 		<item listmode="stemleft"/>
 	</treediff>
-	<treediff id="11">
+	<treediff id="41">
 		<item listmode="stemleft"/>
 	</treediff>
-	<treediff id="15">
+	<treediff id="42">
 		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="43">
+		<item calign="branch_nearest" listmode="stemleft"/>
 	</treediff>
 </wbs_diff>
 
