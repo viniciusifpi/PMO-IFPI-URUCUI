@@ -96,11 +96,14 @@
 			<task ID="78" UniqueID="28" OutlineLevel="2" Name="PDTI DO CAMPUS" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="79" UniqueID="29" OutlineLevel="2" Name="PDRH" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="29">
-			<collapse uid="85"/>
+		<outline current="86">
 			<collapse uid="86"/>
-			<collapse uid="92"/>
+			<collapse uid="87"/>
+			<collapse uid="89"/>
 			<collapse uid="96"/>
+			<collapse uid="107"/>
+			<collapse uid="112"/>
+			<collapse uid="113"/>
 			<collapse uid="119"/>
 			<collapse uid="120"/>
 			<collapse uid="130"/>
@@ -562,6 +565,39 @@
 	<treediff id="86">
 		<item calign="branch_nearest" listmode="stemleft"/>
 	</treediff>
+	<treediff id="87">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="89">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="90">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="91">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="92">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="96">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="107">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="108">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="109">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="110">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="112">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
 	<treediff id="113">
 		<item calign="branch_nearest" listmode="stemleft"/>
 	</treediff>
@@ -575,6 +611,9 @@
 		<item listmode="stemleft"/>
 	</treediff>
 	<treediff id="117">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="118">
 		<item listmode="stemleft"/>
 	</treediff>
 	<treediff id="119">
