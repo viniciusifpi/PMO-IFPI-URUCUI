@@ -86,21 +86,25 @@
 			<task ID="68" UniqueID="20" OutlineLevel="4" Name="Treinamento em Gerencia de Configura&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="69" UniqueID="139" OutlineLevel="4" Name="Curso de Edi&#231;&#227;o Colaborativa, pela Internet, de Documentos " Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="70" UniqueID="140" OutlineLevel="3" Name="Plano de Comunica&#231;&#227;o em Trabalho Remoto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="71" UniqueID="21" OutlineLevel="2" Name="Plano de Implanta&#231;&#227;o de Medotodolia de Gest&#227;o de Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="72" UniqueID="22" OutlineLevel="2" Name="Plano de Implanta&#231;&#227;o de Software da Metodologia de Projetos Adotada" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="73" UniqueID="23" OutlineLevel="2" Name="Plano de Implanta&#231;&#227;o de Processos de Contrata&#231;&#227;o" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="74" UniqueID="24" OutlineLevel="3" Name="Plano de Implanta&#231;&#227;o de Processo de Contrata&#231;&#227;o Geral" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="75" UniqueID="25" OutlineLevel="3" Name="Plano de Implanta&#231;&#227;o de Processo de Contrata&#231;&#227;o de Solu&#231;&#245;es de TI;" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="76" UniqueID="26" OutlineLevel="2" Name="PPA" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="77" UniqueID="27" OutlineLevel="2" Name="PEI" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="78" UniqueID="28" OutlineLevel="2" Name="PDTI DO CAMPUS" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="79" UniqueID="29" OutlineLevel="2" Name="PDRH" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="71" UniqueID="21" OutlineLevel="2" Name="Plano de Implanta&#231;&#227;o de Medotodolia de Gest&#227;o de Projetos" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="72" UniqueID="141" OutlineLevel="3" Name="Planejamento de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="73" UniqueID="142" OutlineLevel="3" Name="Execu&#231;&#227;o de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="74" UniqueID="22" OutlineLevel="2" Name="Plano de Implanta&#231;&#227;o de Software da Metodologia de Projetos Adotada" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="75" UniqueID="143" OutlineLevel="3" Name="Planejamento de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="76" UniqueID="144" OutlineLevel="3" Name="Execu&#231;&#227;o de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="77" UniqueID="23" OutlineLevel="2" Name="Plano de Implanta&#231;&#227;o de Processos de Contrata&#231;&#227;o" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="78" UniqueID="24" OutlineLevel="3" Name="Plano de Implanta&#231;&#227;o de Processo de Contrata&#231;&#227;o Geral" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="79" UniqueID="25" OutlineLevel="3" Name="Plano de Implanta&#231;&#227;o de Processo de Contrata&#231;&#227;o de Solu&#231;&#245;es de TI;" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="80" UniqueID="27" OutlineLevel="2" Name="PEI" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="81" UniqueID="28" OutlineLevel="2" Name="PDTI DO CAMPUS" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="86">
+		<outline current="27">
 			<collapse uid="86"/>
-			<collapse uid="87"/>
 			<collapse uid="89"/>
+			<collapse uid="92"/>
 			<collapse uid="96"/>
+			<collapse uid="98"/>
+			<collapse uid="101"/>
 			<collapse uid="107"/>
 			<collapse uid="112"/>
 			<collapse uid="113"/>
@@ -580,8 +584,44 @@
 	<treediff id="92">
 		<item calign="branch_nearest" listmode="stemleft"/>
 	</treediff>
+	<treediff id="93">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="94">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="95">
+		<item listmode="stemleft"/>
+	</treediff>
 	<treediff id="96">
 		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="97">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="98">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="99">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="100">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="101">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="102">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="103">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="104">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="105">
+		<item listmode="stemleft"/>
 	</treediff>
 	<treediff id="107">
 		<item calign="branch_nearest" listmode="stemleft"/>
@@ -702,6 +742,18 @@
 	</treediff>
 	<treediff id="140">
 		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="141">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="142">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="143">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="144">
+		<item listmode="stemleft"/>
 	</treediff>
 	<treediff id="24">
 		<item listmode="stemleft"/>
