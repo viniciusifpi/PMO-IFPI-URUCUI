@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#00cc00" CREATED="1346363778980" ID="ID_744638019" MODIFIED="1346367104808">
+<node BACKGROUND_COLOR="#00cc00" CREATED="1346363778980" ID="ID_744638019" MODIFIED="1347061327588">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -21,5 +21,6 @@
 <node CREATED="1346366024114" ID="ID_1888601467" MODIFIED="1346707434510" POSITION="right" TEXT="O projeto dever permitir que o plano de  implanta&#xe7;&#xe3;o de &#xa;Metodologia de Gest&#xe3;o de Projeto&#xa; contemple as boas praticas praticadas no governo, &#xa;principalmente no governo federal"/>
 <node CREATED="1346366324249" HGAP="21" ID="ID_1203249682" MODIFIED="1346707569542" POSITION="left" TEXT="Projeto deve  permitir que a equipe ou parte dela fa&#xe7;a  pesquisa de ferramentas &#xa;usadas para aplica&#xe7;&#xe3;o  da metodologia de gest&#xe3;o de projetos&#xa; usadas nos org&#xe3;os do governo, principalmente do governo federal" VSHIFT="-3"/>
 <node CREATED="1346367039913" HGAP="33" ID="ID_1072820296" MODIFIED="1346707262262" POSITION="right" TEXT="O projeto dever&#xe1; seguir a terminologia do PMI" VSHIFT="25"/>
+<node CREATED="1347061029522" ID="ID_639250579" MODIFIED="1347061381158" POSITION="left" TEXT="teste de adicao de audio"/>
 </node>
 </map>
