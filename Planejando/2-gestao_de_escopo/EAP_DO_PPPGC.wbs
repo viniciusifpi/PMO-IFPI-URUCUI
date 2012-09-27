@@ -13,121 +13,118 @@
 			<dow day="sat" working="no"/>
 		</calendar>
 		<currency symbol="R$" digits="2" positiveOrder="2" negativeOrder="9"/>
-		<summary ScheduleFromStart="yes" CalculateCostProgress="no" MultipleCriticalPaths="no" CriticalSlack="0d" Name="PLANO DE GOVERNANCA CORPORATIVO" Title="PLANO DE GOVERNANCA CORPORATIVO" Work="2929h" Duration="1d" ActualDuration="0.0896d" PercentComplete="9%" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" ActualStart="2012-08-30T08:00"/>
+		<summary ScheduleFromStart="yes" CalculateCostProgress="no" MultipleCriticalPaths="no" CriticalSlack="0d" Name="PLANO DE GOVERNANCA CORPORATIVO" Title="PLANO DE GOVERNANCA CORPORATIVO" Work="2929h" Duration="1d" ActualDuration="0.1104d" PercentComplete="11%" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" ActualStart="2012-08-30T08:00"/>
 		<tasks>
-			<task ID="0" UniqueID="0" OutlineLevel="0" PercentComplete="9%" Name="PLANO DE GOVERNANCA CORPORATIVO" Work="2929h" RemainingWork="2929h" ActualDuration="0.0896d" Duration="1d" RemainingDuration="0.9104d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes"/>
-			<task ID="1" UniqueID="1" OutlineLevel="1" PercentComplete="9%" Name="PPPGC-Planejamento do Programa de Governan&#231;a Corporativa" Work="2929h" RemainingWork="2929h" ActualDuration="0.0896d" Duration="1d" RemainingDuration="0.9104d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="2" UniqueID="2" OutlineLevel="2" PercentComplete="30%" Name="Plano de Concientiza&#231;&#227;o" Work="71h" RemainingWork="71h" ActualDuration="0.3d" Duration="1d" RemainingDuration="0.7d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="3" UniqueID="154" OutlineLevel="3" Name="Diagnostico" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="4" UniqueID="5" OutlineLevel="3" PercentComplete="25%" Name="Gest&#227;o de Projetos" Work="30h" RemainingWork="30h" ActualDuration="0.25d" Duration="1d" RemainingDuration="0.75d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="5" UniqueID="6" OutlineLevel="3" PercentComplete="25%" Name="Governan&#231;a Corporativa" Work="30h" RemainingWork="30h" ActualDuration="0.25d" Duration="1d" RemainingDuration="0.75d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="6" UniqueID="7" OutlineLevel="3" PercentComplete="50%" Name="Governan&#231;a Corporativa de TI" Work="11h" RemainingWork="11h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="7" UniqueID="8" OutlineLevel="4" PercentComplete="50%" Name="Concientizar a auta dire&#231;&#227;o de suas obriga&#231;&#245;es em governan&#231;a de ti" Work="4h" RemainingWork="4h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="8" UniqueID="9" OutlineLevel="4" PercentComplete="50%" Name="Explicar os Impactos de Uma M&#225; Governan&#231;a de TI" Work="7h" RemainingWork="7h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="9" UniqueID="3" OutlineLevel="2" Name="Plano de Coaching" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="10" UniqueID="10" OutlineLevel="3" Name="Gest&#227;o de Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="11" UniqueID="11" OutlineLevel="3" Name="Gest&#227;o de Portif&#243;lio de Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="12" UniqueID="4" OutlineLevel="2" Name="Plano Trabalho Colaborativo" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="13" UniqueID="13" OutlineLevel="3" Name="Vis&#227;o Geral" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="14" UniqueID="14" OutlineLevel="3" Name="Plano de Processo de  Gerencia de Configura&#231;&#227;o" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="15" UniqueID="18" OutlineLevel="4" Name="Plano de Controle de Mudan&#231;as" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="16" UniqueID="19" OutlineLevel="4" Name="Plano de Controle de Vers&#245;es" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="17" UniqueID="20" OutlineLevel="4" Name="Treinamento em Gerencia de Configura&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="18" UniqueID="139" OutlineLevel="4" Name="Curso de Edi&#231;&#227;o Colaborativa, pela Internet, de Documentos " Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="19" UniqueID="140" OutlineLevel="3" Name="Plano de Comunica&#231;&#227;o em Trabalho Remoto" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="20" UniqueID="151" OutlineLevel="4" Name="Elabora&#231;&#227;o do Diagnostico do sistema de cominica&#231;&#227;o atual" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="21" UniqueID="155" OutlineLevel="5" Name="Elabora&#231;&#227;o de Matriz SWOT" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="22" UniqueID="156" OutlineLevel="5" Name="Elaborar Diagrama de Pareto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="23" UniqueID="153" OutlineLevel="4" Name="Elabora&#231;&#227;o e Aprova&#231;&#227;o da Proposta de Plano de Cominica&#231;&#227;o do Campus" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="24" UniqueID="158" OutlineLevel="5" Name="elaborar check list 5w2h para plano de comunica&#231;ao" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="25" UniqueID="159" OutlineLevel="5" Name="elabora&#231;ao do diagrama de ishikawa do problema de comunica&#231;&#227;o do campus" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="26" UniqueID="160" OutlineLevel="5" Name="elaborara o A3 thinking" Hyperlink="http://vimeo.com/22253682" HyperlinkAddress="http://vimeo.com/22253682" HyperlinkHref="http://vimeo.com/22253682" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="27" UniqueID="152" OutlineLevel="4" Name="Implanta&#231;&#227;o do Sistema Comunica&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="28" UniqueID="21" OutlineLevel="2" PercentComplete="11%" Name="Plano de Implanta&#231;&#227;o de Medotodolia de Gest&#227;o de Projetos" Work="2858h" RemainingWork="2858h" ActualDuration="0.1104d" Duration="1d" RemainingDuration="0.8896d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="29" UniqueID="161" OutlineLevel="3" Name="Elabora&#231;&#227;o do BMC do Programa" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="30" UniqueID="85" OutlineLevel="3" PercentComplete="12%" Name="Projeto de Cria&#231;&#227;o Comissao permanente de Gestao de Projetos do IFPI" Work="2858h" RemainingWork="2858h" ActualDuration="0.1208d" Duration="1d" RemainingDuration="0.8792d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="31" UniqueID="86" OutlineLevel="4" PercentComplete="21%" Name="Design do PMO" Work="1124h" RemainingWork="1124h" ActualDuration="0.2104d" Duration="1d" RemainingDuration="0.7896d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="32" UniqueID="87" OutlineLevel="5" PercentComplete="25%" Name="Determinar Processos de Funcionamento" ActualDuration="0.25d" Duration="1d" RemainingDuration="0.75d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="33" UniqueID="88" OutlineLevel="6" PercentComplete="50%" Name="ESTABELECER MODELO DE GOVERNANCA" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="34" UniqueID="145" OutlineLevel="6" Name="DETERMINAR NECESSIDADES DE AUTOMATIZA&#199;&#195;O NOS PROCESSOS" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="35" UniqueID="89" OutlineLevel="5" PercentComplete="22%" Name="Definir Infra-estrutura do PMO" Work="1044h" RemainingWork="1044h" ActualDuration="0.2208d" Duration="1d" RemainingDuration="0.7792d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="36" UniqueID="90" OutlineLevel="6" Name="definicao do modelo do PMO" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="37" UniqueID="91" OutlineLevel="6" Name="definicao de papeis e responsabilidades" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="38" UniqueID="92" OutlineLevel="6" PercentComplete="33%" Name="Definicao de Requerimentos Tecnologicos" Work="140h" RemainingWork="140h" ActualDuration="0.3292d" Duration="1d" RemainingDuration="0.6708d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="39" UniqueID="93" OutlineLevel="7" PercentComplete="40%" Name="Levantamento de Necessidades de Software" Work="60h" RemainingWork="60h" ActualDuration="0.4d" Duration="1d" RemainingDuration="0.6d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="40" UniqueID="94" OutlineLevel="7" PercentComplete="30%" Name="Levantamento de Necessidades de Hardware" Work="30h" RemainingWork="30h" ActualDuration="0.3d" Duration="1d" RemainingDuration="0.7d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="41" UniqueID="95" OutlineLevel="7" PercentComplete="30%" Name="Levantamento de Necessidades de Reparos Nos Pr&#233;dios" Work="50h" RemainingWork="50h" ActualDuration="0.3d" Duration="1d" RemainingDuration="0.7d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="42" UniqueID="96" OutlineLevel="6" PercentComplete="14%" Name="Realizar Processo de Sele&#231;&#227;o do Quadro de Servidores componentes da Comiss&#227;o" Work="564h" RemainingWork="564h" ActualDuration="0.1396d" Duration="1d" RemainingDuration="0.8604d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="43" UniqueID="97" OutlineLevel="7" Name="Divulgar do Edital" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="44" UniqueID="98" OutlineLevel="7" Name="executar sele&#231;&#227;o" Work="4h" RemainingWork="4h" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="45" UniqueID="99" OutlineLevel="8" Name="Iniciar sele&#231;&#227;o(marco)" Work="4h" RemainingWork="4h" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="46" UniqueID="100" OutlineLevel="8" Name="Encerrar Sele&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="47" UniqueID="101" OutlineLevel="7" PercentComplete="50%" Name="An&#225;lise de Resultados" Work="560h" RemainingWork="560h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="48" UniqueID="102" OutlineLevel="8" PercentComplete="50%" Name="Analise de Escolaridade" Work="280h" RemainingWork="280h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="49" UniqueID="103" OutlineLevel="8" PercentComplete="50%" Name="An&#225;lise de Alinhamento entre Niveis de Escolaridade, Papeis e Responsabilidades dos Cargos" Work="280h" RemainingWork="280h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="50" UniqueID="104" OutlineLevel="7" Name="Divulgar Resultados" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="51" UniqueID="105" OutlineLevel="7" Name="Realizar Procedimentos Conforme resultados" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="52" UniqueID="107" OutlineLevel="6" PercentComplete="30%" Name="Design do Processo Seletivo" Work="340h" RemainingWork="340h" ActualDuration="0.3d" Duration="1d" RemainingDuration="0.7d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="53" UniqueID="108" OutlineLevel="7" PercentComplete="12%" Name="Disposi&#231;&#245;es Preliminares" Work="20h" RemainingWork="20h" ActualDuration="0.1208d" Duration="1d" RemainingDuration="0.8792d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="54" UniqueID="109" OutlineLevel="7" PercentComplete="12%" Name="Definir Quantidade de Vagas" Work="60h" RemainingWork="60h" ActualDuration="0.1208d" Duration="1d" RemainingDuration="0.8792d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="55" UniqueID="110" OutlineLevel="7" PercentComplete="38%" Name="Atribui&#231;&#245;es de Cargos (Defini&#231;&#227;o de Papeis e Responsabilidades)" Work="60h" RemainingWork="60h" ActualDuration="0.3792d" Duration="1d" RemainingDuration="0.6208d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="56" UniqueID="112" OutlineLevel="7" PercentComplete="38%" Name="Definic&#227;o, An&#225;lise e Negocia&#231;&#227;o de requerimentos de Recursos Humanos" Work="200h" RemainingWork="200h" ActualDuration="0.3792d" Duration="1d" RemainingDuration="0.6208d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="57" UniqueID="113" OutlineLevel="8" PercentComplete="50%" Name="Levantamento de Resquisitos de Recursos Humanos para os Cargos" Work="80h" RemainingWork="80h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="58" UniqueID="114" OutlineLevel="9" PercentComplete="50%" Name="Defini&#231;&#227;o de N&#237;veis de Escolaridade" Work="40h" RemainingWork="40h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="59" UniqueID="115" OutlineLevel="9" PercentComplete="50%" Name="Definir N&#237;vel de Experi&#234;ncia em Gest&#227;o de Projetos para cada Cargo" Work="40h" RemainingWork="40h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="60" UniqueID="116" OutlineLevel="8" PercentComplete="25%" Name="An&#225;lise de Requisitos" Work="60h" RemainingWork="60h" ActualDuration="0.25d" Duration="1d" RemainingDuration="0.75d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="61" UniqueID="117" OutlineLevel="8" PercentComplete="25%" Name="Negocia&#231;&#227;o de Requisitos" Work="60h" RemainingWork="60h" ActualDuration="0.25d" Duration="1d" RemainingDuration="0.75d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="62" UniqueID="118" OutlineLevel="5" Name="Determinacao das necessidades de Treinamento" Work="80h" RemainingWork="80h" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="63" UniqueID="119" OutlineLevel="4" Name="Fase de Implementacao" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="64" UniqueID="120" OutlineLevel="5" Name="Desenvolvimento de processos de gestao" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="65" UniqueID="121" OutlineLevel="6" Name="definir metodologia de gerenciamento de projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="66" UniqueID="122" OutlineLevel="6" Name="Padroes de Documentacao" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="67" UniqueID="123" OutlineLevel="6" Name="Procedimentos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="68" UniqueID="124" OutlineLevel="5" Name="Desenvolver ferramentas, templates e  metricas" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="69" UniqueID="125" OutlineLevel="5" Name="Selecionar os Projetos Pilotos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="70" UniqueID="126" OutlineLevel="5" Name="Conduzir os Projetos Pilotos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="71" UniqueID="127" OutlineLevel="5" Name="Avaliar Os Projetos Pilotos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="72" UniqueID="128" OutlineLevel="5" Name="Refinar os Processos de Gerenciamento de Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="73" UniqueID="129" OutlineLevel="5" Name="Iniciar a Inclusao de Projetos Adicionais ao Novo Processo de Gerenciamento" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="74" UniqueID="130" OutlineLevel="4" Name="Educa&#231;&#227;o e Treinamento" Work="1734h" RemainingWork="1734h" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="75" UniqueID="131" OutlineLevel="5" Name="Identificar Treinamentos Necess&#225;rios" Work="80h" RemainingWork="80h" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="76" UniqueID="132" OutlineLevel="5" Name="Desenvolver Plano de Carreira para Gerenciamento de Projetos" Work="90h" RemainingWork="90h" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="77" UniqueID="133" OutlineLevel="5" Name="Selecionar Treinadores em Gerenciamento de Projetos" Work="564h" RemainingWork="564h" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="78" UniqueID="134" OutlineLevel="5" Name="Desenvolver Cursos de Gerenciaimento de Projetos" Work="1000h" RemainingWork="1000h" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="79" UniqueID="135" OutlineLevel="5" Name="Fornecer Treinamento em Gerenciamento de Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="80" UniqueID="136" OutlineLevel="4" Name="Encerramento e Licoes aprendidas" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="81" UniqueID="137" OutlineLevel="5" Name="Buscar FeedBack dos Stackholders" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="82" UniqueID="138" OutlineLevel="5" Name="Avaliar os Resultados dos Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="83" UniqueID="141" OutlineLevel="3" Name="Planejamento de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="84" UniqueID="142" OutlineLevel="3" Name="Execu&#231;&#227;o de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="85" UniqueID="22" OutlineLevel="2" Name="Plano de Implanta&#231;&#227;o de Software da Metodologia de Projetos Adotada" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="86" UniqueID="146" OutlineLevel="3" Name="Pesquisa de Softwares existentes" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="87" UniqueID="162" OutlineLevel="3" Name="realisar treinamentos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="88" UniqueID="147" OutlineLevel="3" Name="Implanta&#231;&#227;o do Software/softwares" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="89" UniqueID="143" OutlineLevel="3" Name="Planejamento de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="90" UniqueID="144" OutlineLevel="3" Name="Execu&#231;&#227;o de Projeto Piloto Para TESTE DE PMO COM OS SOFTWARE" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="91" UniqueID="163" OutlineLevel="2" Name="Adequar capacidade da TI para suportar o Servi&#231;o de  Fornecimento Software de Gest&#227;o de Projetos" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="92" UniqueID="164" OutlineLevel="3" Name="Elaborar Estrat&#233;gia de Servi&#231;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="93" UniqueID="165" OutlineLevel="3" Name="Realizar o Desenho  de Servi&#231;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="94" UniqueID="166" OutlineLevel="3" Name="Opera&#231;&#227;o de Servi&#231;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="95" UniqueID="23" OutlineLevel="2" Name="Plano de Implanta&#231;&#227;o de Processos de Contrata&#231;&#227;o" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="96" UniqueID="24" OutlineLevel="3" Name="Plano de Implanta&#231;&#227;o de Processo de Contrata&#231;&#227;o Geral" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="97" UniqueID="25" OutlineLevel="3" Name="Plano de Implanta&#231;&#227;o de Processo de Contrata&#231;&#227;o de Solu&#231;&#245;es de TI;" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="98" UniqueID="27" OutlineLevel="2" Name="PEI" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="99" UniqueID="28" OutlineLevel="2" Name="PDTI DO CAMPUS" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="100" UniqueID="148" OutlineLevel="3" Name="Elabora&#231;&#227;o do Diagnostico de Tecnologia da Informa&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="101" UniqueID="149" OutlineLevel="3" Name="Elabora&#231;&#227;o da Estrat&#233;gia de TI para os proximos 3 anos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="0" UniqueID="0" OutlineLevel="0" PercentComplete="11%" Name="PLANO DE GOVERNANCA CORPORATIVO" Work="2929h" RemainingWork="2929h" ActualDuration="0.1104d" Duration="1d" RemainingDuration="0.8896d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes"/>
+			<task ID="1" UniqueID="1" OutlineLevel="1" PercentComplete="11%" Name="PPPGC-Planejamento do Programa de Governan&#231;a Corporativa" Work="2929h" RemainingWork="2929h" ActualDuration="0.1104d" Duration="1d" RemainingDuration="0.8896d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="2" UniqueID="168" OutlineLevel="2" PercentComplete="21%" Name="Fase de Concientiza&#231;&#227;o e Prepara&#231;&#227;o para mudan&#231;a de Paradigma" Work="71h" RemainingWork="71h" ActualDuration="0.2104d" Duration="1d" RemainingDuration="0.7896d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="3" UniqueID="2" OutlineLevel="3" PercentComplete="30%" Name="Plano de Concientiza&#231;&#227;o" Work="71h" RemainingWork="71h" ActualDuration="0.3d" Duration="1d" RemainingDuration="0.7d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="4" UniqueID="154" OutlineLevel="4" Name="Diagnostico" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="5" UniqueID="5" OutlineLevel="4" PercentComplete="25%" Name="Gest&#227;o de Projetos" Work="30h" RemainingWork="30h" ActualDuration="0.25d" Duration="1d" RemainingDuration="0.75d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="6" UniqueID="6" OutlineLevel="4" PercentComplete="25%" Name="Governan&#231;a Corporativa" Work="30h" RemainingWork="30h" ActualDuration="0.25d" Duration="1d" RemainingDuration="0.75d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="7" UniqueID="7" OutlineLevel="4" PercentComplete="50%" Name="Governan&#231;a Corporativa de TI" Work="11h" RemainingWork="11h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="8" UniqueID="8" OutlineLevel="5" PercentComplete="50%" Name="Concientizar a auta dire&#231;&#227;o de suas obriga&#231;&#245;es em governan&#231;a de ti" Work="4h" RemainingWork="4h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="9" UniqueID="9" OutlineLevel="5" PercentComplete="50%" Name="Explicar os Impactos de Uma M&#225; Governan&#231;a de TI" Work="7h" RemainingWork="7h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="10" UniqueID="3" OutlineLevel="3" Name="Plano de Coaching" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="11" UniqueID="10" OutlineLevel="4" Name="Gest&#227;o de Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="12" UniqueID="11" OutlineLevel="4" Name="Gest&#227;o de Portif&#243;lio de Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="13" UniqueID="4" OutlineLevel="2" Name="Plano Trabalho Colaborativo" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="14" UniqueID="13" OutlineLevel="3" Name="Vis&#227;o Geral" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="15" UniqueID="14" OutlineLevel="3" Name="Plano de Processo de  Gerencia de Configura&#231;&#227;o" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="16" UniqueID="18" OutlineLevel="4" Name="Plano de Controle de Mudan&#231;as" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="17" UniqueID="19" OutlineLevel="4" Name="Plano de Controle de Vers&#245;es" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="18" UniqueID="20" OutlineLevel="4" Name="Treinamento em Gerencia de Configura&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="19" UniqueID="139" OutlineLevel="4" Name="Curso de Edi&#231;&#227;o Colaborativa, pela Internet, de Documentos " Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="20" UniqueID="140" OutlineLevel="3" Name="Plano de Comunica&#231;&#227;o em Trabalho Remoto" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="21" UniqueID="151" OutlineLevel="4" Name="Elabora&#231;&#227;o do Diagnostico do sistema de cominica&#231;&#227;o atual" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="22" UniqueID="155" OutlineLevel="5" Name="Elabora&#231;&#227;o de Matriz SWOT" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="23" UniqueID="156" OutlineLevel="5" Name="Elaborar Diagrama de Pareto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="24" UniqueID="153" OutlineLevel="4" Name="Elabora&#231;&#227;o e Aprova&#231;&#227;o da Proposta de Plano de Cominica&#231;&#227;o do Campus" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="25" UniqueID="158" OutlineLevel="5" Name="elaborar check list 5w2h para plano de comunica&#231;ao" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="26" UniqueID="159" OutlineLevel="5" Name="elabora&#231;ao do diagrama de ishikawa do problema de comunica&#231;&#227;o do campus" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="27" UniqueID="160" OutlineLevel="5" Name="elaborara o A3 thinking" Hyperlink="http://vimeo.com/22253682" HyperlinkAddress="http://vimeo.com/22253682" HyperlinkHref="http://vimeo.com/22253682" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="28" UniqueID="152" OutlineLevel="4" Name="Implanta&#231;&#227;o do Sistema Comunica&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="29" UniqueID="21" OutlineLevel="2" PercentComplete="16%" Name="Plano de Implanta&#231;&#227;o de Medotodolia de Gest&#227;o de Projetos" Work="2858h" RemainingWork="2858h" ActualDuration="0.1604d" Duration="1d" RemainingDuration="0.8396d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="30" UniqueID="161" OutlineLevel="3" Name="Elabora&#231;&#227;o do BMC do Programa" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="31" UniqueID="85" OutlineLevel="3" PercentComplete="17%" Name="Projeto de Cria&#231;&#227;o Comissao permanente de Gestao de Projetos do IFPI" Work="2858h" RemainingWork="2858h" ActualDuration="0.1708d" Duration="1d" RemainingDuration="0.8292d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="32" UniqueID="86" OutlineLevel="4" PercentComplete="30%" Name="Design do PMO" Work="1124h" RemainingWork="1124h" ActualDuration="0.3d" Duration="1d" RemainingDuration="0.7d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="33" UniqueID="87" OutlineLevel="5" PercentComplete="25%" Name="Determinar Processos de Funcionamento" ActualDuration="0.25d" Duration="1d" RemainingDuration="0.75d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="34" UniqueID="88" OutlineLevel="6" PercentComplete="50%" Name="ESTABELECER MODELO DE GOVERNANCA" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="35" UniqueID="145" OutlineLevel="6" Name="DETERMINAR NECESSIDADES DE AUTOMATIZA&#199;&#195;O NOS PROCESSOS" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="36" UniqueID="89" OutlineLevel="5" PercentComplete="32%" Name="Definir Infra-estrutura do PMO" Work="1044h" RemainingWork="1044h" ActualDuration="0.3208d" Duration="1d" RemainingDuration="0.6792d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="37" UniqueID="90" OutlineLevel="6" PercentComplete="100%" Name="definicao do modelo do PMO" ActualDuration="1d" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" ActualFinish="2012-08-30T17:00" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="38" UniqueID="91" OutlineLevel="6" PercentComplete="100%" Name="definicao de papeis e responsabilidades" ActualDuration="1d" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" ActualFinish="2012-08-30T17:00" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="39" UniqueID="92" OutlineLevel="6" PercentComplete="33%" Name="Definicao de Requerimentos Tecnologicos" Work="140h" RemainingWork="140h" ActualDuration="0.3292d" Duration="1d" RemainingDuration="0.6708d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="40" UniqueID="93" OutlineLevel="7" PercentComplete="40%" Name="Levantamento de Necessidades de Software" Work="60h" RemainingWork="60h" ActualDuration="0.4d" Duration="1d" RemainingDuration="0.6d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="41" UniqueID="94" OutlineLevel="7" PercentComplete="30%" Name="Levantamento de Necessidades de Hardware" Work="30h" RemainingWork="30h" ActualDuration="0.3d" Duration="1d" RemainingDuration="0.7d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="42" UniqueID="95" OutlineLevel="7" PercentComplete="30%" Name="Levantamento de Necessidades de Reparos Nos Pr&#233;dios" Work="50h" RemainingWork="50h" ActualDuration="0.3d" Duration="1d" RemainingDuration="0.7d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="43" UniqueID="96" OutlineLevel="6" PercentComplete="14%" Name="Realizar Processo de Sele&#231;&#227;o do Quadro de Servidores componentes da Comiss&#227;o" Work="564h" RemainingWork="564h" ActualDuration="0.1396d" Duration="1d" RemainingDuration="0.8604d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="44" UniqueID="97" OutlineLevel="7" Name="Divulgar do Edital" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="45" UniqueID="98" OutlineLevel="7" Name="executar sele&#231;&#227;o" Work="4h" RemainingWork="4h" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="46" UniqueID="99" OutlineLevel="8" Name="Iniciar sele&#231;&#227;o(marco)" Work="4h" RemainingWork="4h" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="47" UniqueID="100" OutlineLevel="8" Name="Encerrar Sele&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="48" UniqueID="101" OutlineLevel="7" PercentComplete="50%" Name="An&#225;lise de Resultados" Work="560h" RemainingWork="560h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="49" UniqueID="102" OutlineLevel="8" PercentComplete="50%" Name="Analise de Escolaridade" Work="280h" RemainingWork="280h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="50" UniqueID="103" OutlineLevel="8" PercentComplete="50%" Name="An&#225;lise de Alinhamento entre Niveis de Escolaridade, Papeis e Responsabilidades dos Cargos" Work="280h" RemainingWork="280h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="51" UniqueID="104" OutlineLevel="7" Name="Divulgar Resultados" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="52" UniqueID="105" OutlineLevel="7" Name="Realizar Procedimentos Conforme resultados" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="53" UniqueID="107" OutlineLevel="6" PercentComplete="30%" Name="Design do Processo Seletivo" Work="340h" RemainingWork="340h" ActualDuration="0.3d" Duration="1d" RemainingDuration="0.7d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="54" UniqueID="108" OutlineLevel="7" PercentComplete="12%" Name="Disposi&#231;&#245;es Preliminares" Work="20h" RemainingWork="20h" ActualDuration="0.1208d" Duration="1d" RemainingDuration="0.8792d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="55" UniqueID="109" OutlineLevel="7" PercentComplete="12%" Name="Definir Quantidade de Vagas" Work="60h" RemainingWork="60h" ActualDuration="0.1208d" Duration="1d" RemainingDuration="0.8792d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="56" UniqueID="110" OutlineLevel="7" PercentComplete="38%" Name="Atribui&#231;&#245;es de Cargos (Defini&#231;&#227;o de Papeis e Responsabilidades)" Work="60h" RemainingWork="60h" ActualDuration="0.3792d" Duration="1d" RemainingDuration="0.6208d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="57" UniqueID="112" OutlineLevel="7" PercentComplete="38%" Name="Definic&#227;o, An&#225;lise e Negocia&#231;&#227;o de requerimentos de Recursos Humanos" Work="200h" RemainingWork="200h" ActualDuration="0.3792d" Duration="1d" RemainingDuration="0.6208d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="58" UniqueID="113" OutlineLevel="8" PercentComplete="50%" Name="Levantamento de Resquisitos de Recursos Humanos para os Cargos" Work="80h" RemainingWork="80h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="59" UniqueID="114" OutlineLevel="9" PercentComplete="50%" Name="Defini&#231;&#227;o de N&#237;veis de Escolaridade" Work="40h" RemainingWork="40h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="60" UniqueID="115" OutlineLevel="9" PercentComplete="50%" Name="Definir N&#237;vel de Experi&#234;ncia em Gest&#227;o de Projetos para cada Cargo" Work="40h" RemainingWork="40h" ActualDuration="0.5d" Duration="1d" RemainingDuration="0.5d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="61" UniqueID="116" OutlineLevel="8" PercentComplete="25%" Name="An&#225;lise de Requisitos" Work="60h" RemainingWork="60h" ActualDuration="0.25d" Duration="1d" RemainingDuration="0.75d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="62" UniqueID="117" OutlineLevel="8" PercentComplete="25%" Name="Negocia&#231;&#227;o de Requisitos" Work="60h" RemainingWork="60h" ActualDuration="0.25d" Duration="1d" RemainingDuration="0.75d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="63" UniqueID="118" OutlineLevel="5" Name="Determinacao das necessidades de Treinamento" Work="80h" RemainingWork="80h" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="64" UniqueID="119" OutlineLevel="4" Name="Fase de Implementacao" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="65" UniqueID="120" OutlineLevel="5" Name="Desenvolvimento de processos de gestao" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="66" UniqueID="121" OutlineLevel="6" Name="definir metodologia de gerenciamento de projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="67" UniqueID="122" OutlineLevel="6" Name="Padroes de Documentacao" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="68" UniqueID="123" OutlineLevel="6" Name="Procedimentos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="69" UniqueID="124" OutlineLevel="5" Name="Desenvolver ferramentas, templates e  metricas" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="70" UniqueID="125" OutlineLevel="5" Name="Selecionar os Projetos Pilotos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="71" UniqueID="126" OutlineLevel="5" Name="Conduzir os Projetos Pilotos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="72" UniqueID="127" OutlineLevel="5" Name="Avaliar Os Projetos Pilotos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="73" UniqueID="128" OutlineLevel="5" Name="Refinar os Processos de Gerenciamento de Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="74" UniqueID="129" OutlineLevel="5" Name="Iniciar a Inclusao de Projetos Adicionais ao Novo Processo de Gerenciamento" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="75" UniqueID="130" OutlineLevel="4" Name="Educa&#231;&#227;o e Treinamento" Work="1734h" RemainingWork="1734h" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="76" UniqueID="131" OutlineLevel="5" Name="Identificar Treinamentos Necess&#225;rios" Work="80h" RemainingWork="80h" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="77" UniqueID="132" OutlineLevel="5" Name="Desenvolver Plano de Carreira para Gerenciamento de Projetos" Work="90h" RemainingWork="90h" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="78" UniqueID="133" OutlineLevel="5" Name="Selecionar Treinadores em Gerenciamento de Projetos" Work="564h" RemainingWork="564h" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="79" UniqueID="134" OutlineLevel="5" Name="Desenvolver Cursos de Gerenciaimento de Projetos" Work="1000h" RemainingWork="1000h" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="80" UniqueID="135" OutlineLevel="5" Name="Fornecer Treinamento em Gerenciamento de Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="81" UniqueID="136" OutlineLevel="4" Name="Encerramento e Licoes aprendidas" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="82" UniqueID="137" OutlineLevel="5" Name="Buscar FeedBack dos Stackholders" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="83" UniqueID="138" OutlineLevel="5" Name="Avaliar os Resultados dos Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="84" UniqueID="141" OutlineLevel="3" Name="Planejamento de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="85" UniqueID="142" OutlineLevel="3" Name="Execu&#231;&#227;o de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="86" UniqueID="22" OutlineLevel="2" Name="Plano de Implanta&#231;&#227;o de Software da Metodologia de Projetos Adotada" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="87" UniqueID="146" OutlineLevel="3" Name="Pesquisa de Softwares existentes" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="88" UniqueID="162" OutlineLevel="3" Name="realisar treinamentos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="89" UniqueID="147" OutlineLevel="3" Name="Implanta&#231;&#227;o do Software/softwares" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="90" UniqueID="143" OutlineLevel="3" Name="Planejamento de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="91" UniqueID="144" OutlineLevel="3" Name="Execu&#231;&#227;o de Projeto Piloto Para TESTE DE PMO COM OS SOFTWARE" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="92" UniqueID="163" OutlineLevel="2" Name="Adequar capacidade da TI para suportar o Servi&#231;o de  Fornecimento Software de Gest&#227;o de Projetos" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="93" UniqueID="164" OutlineLevel="3" Name="Elaborar Estrat&#233;gia de Servi&#231;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="94" UniqueID="165" OutlineLevel="3" Name="Realizar o Desenho  de Servi&#231;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="95" UniqueID="167" OutlineLevel="3" Name="Planejar a Transi&#231;&#227;o de Servi&#231;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="96" UniqueID="166" OutlineLevel="3" Name="Opera&#231;&#227;o de Servi&#231;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="97" UniqueID="23" OutlineLevel="2" Name="Plano de Implanta&#231;&#227;o de Processos de Contrata&#231;&#227;o" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="98" UniqueID="24" OutlineLevel="3" Name="Plano de Implanta&#231;&#227;o de Processo de Contrata&#231;&#227;o Geral" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="99" UniqueID="25" OutlineLevel="3" Name="Plano de Implanta&#231;&#227;o de Processo de Contrata&#231;&#227;o de Solu&#231;&#245;es de TI;" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="100" UniqueID="27" OutlineLevel="2" Name="PEI     DO              CAMPUS" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="101" UniqueID="28" OutlineLevel="2" Name="PDTI DO CAMPUS" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="102" UniqueID="148" OutlineLevel="3" Name="Elabora&#231;&#227;o do Diagnostico de Tecnologia da Informa&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="103" UniqueID="149" OutlineLevel="3" Name="Elabora&#231;&#227;o da Estrat&#233;gia de TI para os proximos 3 anos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="163">
+		<outline current="168">
 			<collapse uid="14"/>
 			<collapse uid="151"/>
 			<collapse uid="153"/>
-			<collapse uid="86"/>
 			<collapse uid="87"/>
-			<collapse uid="89"/>
-			<collapse uid="92"/>
-			<collapse uid="96"/>
-			<collapse uid="98"/>
 			<collapse uid="101"/>
 			<collapse uid="112"/>
 			<collapse uid="113"/>
@@ -473,7 +470,7 @@
 </wbs_diff>
 
 		</wbs_view>
-		<wbs_view id="Hours and Cost View" pagelayout="Page Layout 6" outlinesymbolpos="bottomcenter">
+		<wbs_view id="Hours and Cost View" pagelayout="Page Layout 6" outlinesymbolpos="bottomcenter" field="Cost">
 			<item id="summary" before="18pt"/>
 			<item id="task" before="14.4pt" listmode="stemleft"/>
 			<border id="Critical Task" shdir="bottom_right" shdepth="3pt" shcolor="red" bkcolor="lightyellow"/>
@@ -507,6 +504,87 @@
 				</row>
 			</grid>
 <wbs_diff>
+	<treediff id="7">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="14">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="140">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="151">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="153">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="85">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="86">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="90">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="91">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="98">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="101">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="112">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="113">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="119">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="124">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="125">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="126">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="127">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="128">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="129">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="130">
+		<item calign="branch_nearest" before="18.9pt" listmode="stemleft"/>
+	</treediff>
+	<treediff id="131">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="132">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="133">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="134">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="135">
+		<item listmode="none"/>
+	</treediff>
+	<treediff id="136">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
 </wbs_diff>
 
 		</wbs_view>
@@ -547,6 +625,60 @@
 				</row>
 			</grid>
 <wbs_diff>
+	<treediff id="8">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="9">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="140">
+		<item before="11.7pt"/>
+	</treediff>
+	<treediff id="151">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="153">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="152">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="87">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="89">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="118">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="146">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="162">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="147">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="143">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="144">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="164">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="165">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="167">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="166">
+		<item listmode="stemleft"/>
+	</treediff>
 </wbs_diff>
 
 		</wbs_view>
@@ -662,10 +794,16 @@
 		<item calign="branch_nearest" listmode="stemleft"/>
 	</treediff>
 	<treediff id="87">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest"/>
+	</treediff>
+	<treediff id="88">
+		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="145">
+		<item listmode="stemleft"/>
 	</treediff>
 	<treediff id="89">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest"/>
 	</treediff>
 	<treediff id="90">
 		<item listmode="stemleft"/>
@@ -745,14 +883,11 @@
 	<treediff id="117">
 		<item listmode="stemleft"/>
 	</treediff>
-	<treediff id="118">
-		<item listmode="stemleft"/>
-	</treediff>
 	<treediff id="119">
 		<item calign="branch_nearest" listmode="stemleft"/>
 	</treediff>
 	<treediff id="120">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest"/>
 	</treediff>
 	<treediff id="121">
 		<item listmode="stemleft"/>
@@ -761,24 +896,6 @@
 		<item listmode="stemleft"/>
 	</treediff>
 	<treediff id="123">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="124">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="125">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="126">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="127">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="128">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="129">
 		<item listmode="stemleft"/>
 	</treediff>
 	<treediff id="130">
@@ -801,12 +918,6 @@
 	</treediff>
 	<treediff id="136">
 		<item calign="branch_nearest" listmode="stemleft"/>
-	</treediff>
-	<treediff id="137">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="138">
-		<item listmode="stemleft"/>
 	</treediff>
 	<treediff id="141">
 		<item listmode="stemleft"/>
@@ -841,6 +952,9 @@
 	<treediff id="165">
 		<item listmode="stemleft"/>
 	</treediff>
+	<treediff id="167">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
 	<treediff id="166">
 		<item listmode="stemleft"/>
 	</treediff>
@@ -865,7 +979,7 @@
 </wbs_diff>
 
 		</wbs_view>
-		<wbs_view id="Progress View" pagelayout="Page Layout 8" borderpolicy="progress" outlinesymbolpos="bottomcenter">
+		<wbs_view id="Progress View" pagelayout="Page Layout 8" borderpolicy="progress" outlinesymbolpos="bottomcenter" field="% Complete">
 			<item id="summary" before="14.4pt"/>
 			<item id="task" before="7.2pt" listmode="stemleft"/>
 			<border id="Critical Task" shdir="bottom_right" shdepth="3pt" shcolor="red" bkcolor="lightyellow"/>
