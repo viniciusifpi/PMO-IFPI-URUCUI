@@ -57,7 +57,7 @@
 			<task ID="39" UniqueID="148" OutlineLevel="3" Name="Elabora&#231;&#227;o do Diagnostico de Tecnologia da Informa&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="40" UniqueID="149" OutlineLevel="3" Name="Elabora&#231;&#227;o da Estrat&#233;gia de TI para os proximos 3 anos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="172">
+		<outline current="21">
 			<collapse uid="14"/>
 			<collapse uid="151"/>
 			<collapse uid="153"/>
