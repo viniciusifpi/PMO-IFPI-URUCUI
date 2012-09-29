@@ -13,10 +13,10 @@
 			<dow day="sat" working="no"/>
 		</calendar>
 		<currency symbol="R$" digits="2" positiveOrder="2" negativeOrder="9"/>
-		<summary ScheduleFromStart="yes" CalculateCostProgress="no" MultipleCriticalPaths="no" CriticalSlack="0d" Name="PLANO DE GOVERNANCA CORPORATIVO" Title="PLANO DE GOVERNANCA CORPORATIVO" Work="2929h" Duration="1d" ActualDuration="0.1208d" PercentComplete="12%" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" ActualStart="2012-08-30T08:00"/>
+		<summary ScheduleFromStart="yes" CalculateCostProgress="no" MultipleCriticalPaths="no" CriticalSlack="0d" Name="PLANO DE GOVERNANCA CORPORATIVO" Title="PLANO DE GOVERNANCA CORPORATIVO" Work="2929h" Duration="1d" ActualDuration="0.1292d" PercentComplete="13%" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" ActualStart="2012-08-30T08:00"/>
 		<tasks>
-			<task ID="0" UniqueID="0" OutlineLevel="0" PercentComplete="12%" Name="PLANO DE GOVERNANCA CORPORATIVO" Work="2929h" RemainingWork="2929h" ActualDuration="0.1208d" Duration="1d" RemainingDuration="0.8792d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes"/>
-			<task ID="1" UniqueID="1" OutlineLevel="1" PercentComplete="12%" Name="PPPGC-Planejamento do Programa de Governan&#231;a Corporativa" Work="2929h" RemainingWork="2929h" ActualDuration="0.1208d" Duration="1d" RemainingDuration="0.8792d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="0" UniqueID="0" OutlineLevel="0" PercentComplete="13%" Name="PLANO DE GOVERNANCA CORPORATIVO" Work="2929h" RemainingWork="2929h" ActualDuration="0.1292d" Duration="1d" RemainingDuration="0.8708d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes"/>
+			<task ID="1" UniqueID="1" OutlineLevel="1" PercentComplete="13%" Name="PPPGC-Planejamento do Programa de Governan&#231;a Corporativa" Work="2929h" RemainingWork="2929h" ActualDuration="0.1292d" Duration="1d" RemainingDuration="0.8708d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="2" UniqueID="168" OutlineLevel="2" PercentComplete="19%" Name="Fase de Concientiza&#231;&#227;o e Prepara&#231;&#227;o para mudan&#231;a de Paradigma" Work="71h" RemainingWork="71h" ActualDuration="0.1896d" Duration="1d" RemainingDuration="0.8104d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="3" UniqueID="2" OutlineLevel="3" PercentComplete="30%" Name="Plano de Concientiza&#231;&#227;o" Work="71h" RemainingWork="71h" ActualDuration="0.3d" Duration="1d" RemainingDuration="0.7d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="4" UniqueID="154" OutlineLevel="4" Name="Diagnostico" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
@@ -105,12 +105,11 @@
 			<task ID="87" UniqueID="138" OutlineLevel="5" Name="Avaliar os Resultados dos Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="88" UniqueID="141" OutlineLevel="3" Name="Planejamento de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="89" UniqueID="142" OutlineLevel="3" Name="Execu&#231;&#227;o de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="90" UniqueID="27" OutlineLevel="2" Name="PEI     DO              CAMPUS" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="91" UniqueID="28" OutlineLevel="2" Name="PDTI DO CAMPUS" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="92" UniqueID="148" OutlineLevel="3" Name="Elabora&#231;&#227;o do Diagnostico de Tecnologia da Informa&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="93" UniqueID="149" OutlineLevel="3" Name="Elabora&#231;&#227;o da Estrat&#233;gia de TI para os proximos 3 anos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="90" UniqueID="28" OutlineLevel="2" Name="PDTI DO CAMPUS" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="91" UniqueID="148" OutlineLevel="3" Name="Elabora&#231;&#227;o do Diagnostico de Tecnologia da Informa&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="92" UniqueID="149" OutlineLevel="3" Name="Elabora&#231;&#227;o da Estrat&#233;gia de TI para os proximos 3 anos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="27">
+		<outline current="142">
 			<collapse uid="14"/>
 			<collapse uid="151"/>
 			<collapse uid="153"/>
@@ -313,8 +312,6 @@
 				</row>
 			</grid>
 <wbs_diff>
-
-
 </wbs_diff>
 
 		</wbs_view>
@@ -359,8 +356,6 @@
 				</row>
 			</grid>
 <wbs_diff>
-
-
 </wbs_diff>
 
 		</wbs_view>
@@ -462,8 +457,6 @@
 				</row>
 			</grid>
 <wbs_diff>
-
-
 </wbs_diff>
 
 		</wbs_view>
@@ -609,8 +602,6 @@
 		<item calign="branch_nearest" listmode="stemleft">
 		</item>
 	</treediff>
-
-
 </wbs_diff>
 
 		</wbs_view>
@@ -687,8 +678,6 @@
 		<item listmode="stemleft">
 		</item>
 	</treediff>
-
-
 </wbs_diff>
 
 		</wbs_view>
@@ -1035,8 +1024,6 @@
 				</row>
 			</grid>
 <wbs_diff>
-
-
 </wbs_diff>
 
 		</wbs_view>
