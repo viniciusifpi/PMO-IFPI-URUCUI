@@ -13,10 +13,10 @@
 			<dow day="sat" working="no"/>
 		</calendar>
 		<currency symbol="R$" digits="2" positiveOrder="2" negativeOrder="9"/>
-		<summary ScheduleFromStart="yes" CalculateCostProgress="no" MultipleCriticalPaths="no" CriticalSlack="0d" Name="PLANO DE GOVERNANCA CORPORATIVO" Title="PLANO DE GOVERNANCA CORPORATIVO" Work="2929h" Duration="1d" ActualDuration="0.1104d" PercentComplete="11%" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" ActualStart="2012-08-30T08:00"/>
+		<summary ScheduleFromStart="yes" CalculateCostProgress="no" MultipleCriticalPaths="no" CriticalSlack="0d" Name="PLANO DE GOVERNANCA CORPORATIVO" Title="PLANO DE GOVERNANCA CORPORATIVO" Work="2929h" Duration="1d" ActualDuration="0.1208d" PercentComplete="12%" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" ActualStart="2012-08-30T08:00"/>
 		<tasks>
-			<task ID="0" UniqueID="0" OutlineLevel="0" PercentComplete="11%" Name="PLANO DE GOVERNANCA CORPORATIVO" Work="2929h" RemainingWork="2929h" ActualDuration="0.1104d" Duration="1d" RemainingDuration="0.8896d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes"/>
-			<task ID="1" UniqueID="1" OutlineLevel="1" PercentComplete="11%" Name="PPPGC-Planejamento do Programa de Governan&#231;a Corporativa" Work="2929h" RemainingWork="2929h" ActualDuration="0.1104d" Duration="1d" RemainingDuration="0.8896d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="0" UniqueID="0" OutlineLevel="0" PercentComplete="12%" Name="PLANO DE GOVERNANCA CORPORATIVO" Work="2929h" RemainingWork="2929h" ActualDuration="0.1208d" Duration="1d" RemainingDuration="0.8792d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes"/>
+			<task ID="1" UniqueID="1" OutlineLevel="1" PercentComplete="12%" Name="PPPGC-Planejamento do Programa de Governan&#231;a Corporativa" Work="2929h" RemainingWork="2929h" ActualDuration="0.1208d" Duration="1d" RemainingDuration="0.8792d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="2" UniqueID="168" OutlineLevel="2" PercentComplete="19%" Name="Fase de Concientiza&#231;&#227;o e Prepara&#231;&#227;o para mudan&#231;a de Paradigma" Work="71h" RemainingWork="71h" ActualDuration="0.1896d" Duration="1d" RemainingDuration="0.8104d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="3" UniqueID="2" OutlineLevel="3" PercentComplete="30%" Name="Plano de Concientiza&#231;&#227;o" Work="71h" RemainingWork="71h" ActualDuration="0.3d" Duration="1d" RemainingDuration="0.7d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="2012-08-30T08:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="4" UniqueID="154" OutlineLevel="4" Name="Diagnostico" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
@@ -105,24 +105,12 @@
 			<task ID="87" UniqueID="138" OutlineLevel="5" Name="Avaliar os Resultados dos Projetos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="88" UniqueID="141" OutlineLevel="3" Name="Planejamento de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="89" UniqueID="142" OutlineLevel="3" Name="Execu&#231;&#227;o de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="90" UniqueID="169" OutlineLevel="2" Name="Fase de aumento da Capacidade/Produtividade Atual" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="91" UniqueID="163" OutlineLevel="3" Name="Adequar capacidade da TI para suportar o Servi&#231;o de  Fornecimento Software de Gest&#227;o de Projetos" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="92" UniqueID="164" OutlineLevel="4" Name="Elaborar Estrat&#233;gia de Servi&#231;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="93" UniqueID="165" OutlineLevel="4" Name="Realizar o Desenho  de Servi&#231;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="94" UniqueID="167" OutlineLevel="4" Name="Planejar a Transi&#231;&#227;o de Servi&#231;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="95" UniqueID="166" OutlineLevel="4" Name="Opera&#231;&#227;o de Servi&#231;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="96" UniqueID="22" OutlineLevel="3" Name="Plano de Implanta&#231;&#227;o de Software da Metodologia de Projetos Adotada" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="97" UniqueID="146" OutlineLevel="4" Name="Pesquisa de Softwares existentes" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="98" UniqueID="162" OutlineLevel="4" Name="realisar treinamentos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="99" UniqueID="147" OutlineLevel="4" Name="Implanta&#231;&#227;o do Software/softwares" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="100" UniqueID="143" OutlineLevel="4" Name="Planejamento de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="101" UniqueID="144" OutlineLevel="4" Name="Execu&#231;&#227;o de Projeto Piloto Para TESTE DE PMO COM OS SOFTWARE" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="102" UniqueID="27" OutlineLevel="2" Name="PEI     DO              CAMPUS" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="103" UniqueID="28" OutlineLevel="2" Name="PDTI DO CAMPUS" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="104" UniqueID="148" OutlineLevel="3" Name="Elabora&#231;&#227;o do Diagnostico de Tecnologia da Informa&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="105" UniqueID="149" OutlineLevel="3" Name="Elabora&#231;&#227;o da Estrat&#233;gia de TI para os proximos 3 anos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="90" UniqueID="27" OutlineLevel="2" Name="PEI     DO              CAMPUS" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="91" UniqueID="28" OutlineLevel="2" Name="PDTI DO CAMPUS" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="92" UniqueID="148" OutlineLevel="3" Name="Elabora&#231;&#227;o do Diagnostico de Tecnologia da Informa&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="93" UniqueID="149" OutlineLevel="3" Name="Elabora&#231;&#227;o da Estrat&#233;gia de TI para os proximos 3 anos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="170">
+		<outline current="142">
 			<collapse uid="14"/>
 			<collapse uid="151"/>
 			<collapse uid="153"/>
@@ -508,85 +496,112 @@
 			</grid>
 <wbs_diff>
 	<treediff id="7">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="14">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="140">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="151">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="153">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="85">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="86">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="90">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="91">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="98">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="101">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="112">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="113">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="119">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="124">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="125">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="126">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="127">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="128">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="129">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="130">
-		<item calign="branch_nearest" before="18.9pt" listmode="stemleft"/>
+		<item calign="branch_nearest" before="18.9pt" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="131">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="132">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="133">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="134">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="135">
-		<item listmode="none"/>
+		<item listmode="none">
+		</item>
 	</treediff>
 	<treediff id="136">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 </wbs_diff>
 
@@ -629,58 +644,40 @@
 			</grid>
 <wbs_diff>
 	<treediff id="8">
-		<item listmode="stemleft"/>
+		<item listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="9">
-		<item listmode="stemleft"/>
+		<item listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="140">
-		<item before="11.7pt"/>
+		<item before="11.7pt">
+		</item>
 	</treediff>
 	<treediff id="151">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="153">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="152">
-		<item listmode="stemleft"/>
+		<item listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="87">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="89">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest" listmode="stemleft">
+		</item>
 	</treediff>
 	<treediff id="118">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="146">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="162">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="147">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="143">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="144">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="164">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="165">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="167">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="166">
-		<item listmode="stemleft"/>
+		<item listmode="stemleft">
+		</item>
 	</treediff>
 </wbs_diff>
 
@@ -938,39 +935,6 @@
 		<item listmode="stemleft"/>
 	</treediff>
 	<treediff id="142">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="163">
-		<item calign="branch_nearest"/>
-	</treediff>
-	<treediff id="164">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="165">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="167">
-		<item calign="branch_nearest" listmode="stemleft"/>
-	</treediff>
-	<treediff id="166">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="22">
-		<item calign="branch_nearest"/>
-	</treediff>
-	<treediff id="146">
-		<item calign="branch_nearest" listmode="stemleft"/>
-	</treediff>
-	<treediff id="162">
-		<item calign="branch_nearest" listmode="stemleft"/>
-	</treediff>
-	<treediff id="147">
-		<item calign="branch_nearest" listmode="stemleft"/>
-	</treediff>
-	<treediff id="143">
-		<item listmode="stemleft"/>
-	</treediff>
-	<treediff id="144">
 		<item listmode="stemleft"/>
 	</treediff>
 	<treediff id="28">
