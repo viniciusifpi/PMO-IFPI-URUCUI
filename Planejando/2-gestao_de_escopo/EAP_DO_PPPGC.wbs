@@ -51,12 +51,13 @@
 			<task ID="33" UniqueID="21" OutlineLevel="2" Name="Plano de Implanta&#231;&#227;o de Medotodolia de Gest&#227;o de Projetos" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" ActualStart="NA" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="34" UniqueID="161" OutlineLevel="3" Name="Elabora&#231;&#227;o do BMC do Programa" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="35" UniqueID="141" OutlineLevel="3" Name="Planejamento de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="36" UniqueID="142" OutlineLevel="3" Name="Execu&#231;&#227;o de Projeto Piloto" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="37" UniqueID="28" OutlineLevel="2" Name="PDTI DO CAMPUS" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="38" UniqueID="148" OutlineLevel="3" Name="Elabora&#231;&#227;o do Diagnostico de Tecnologia da Informa&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="39" UniqueID="149" OutlineLevel="3" Name="Elabora&#231;&#227;o da Estrat&#233;gia de TI para os proximos 3 anos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="36" UniqueID="142" OutlineLevel="3" Name="Execu&#231;&#227;o de Projeto Piloto" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="37" UniqueID="172" OutlineLevel="3" Name="Implanta&#231;&#227;o Do Portifl&#243;lio de Projetos do Campus" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="38" UniqueID="28" OutlineLevel="2" Name="PDTI DO CAMPUS" Duration="1d" RemainingDuration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="39" UniqueID="148" OutlineLevel="3" Name="Elabora&#231;&#227;o do Diagnostico de Tecnologia da Informa&#231;&#227;o" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="40" UniqueID="149" OutlineLevel="3" Name="Elabora&#231;&#227;o da Estrat&#233;gia de TI para os proximos 3 anos" Duration="1d" Start="2012-08-30T08:00" Finish="2012-08-30T17:00" EarlyStart="2012-08-30T08:00" EarlyFinish="2012-08-30T17:00" LateStart="2012-08-30T08:00" LateFinish="2012-08-30T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="161">
+		<outline current="172">
 			<collapse uid="14"/>
 			<collapse uid="151"/>
 			<collapse uid="153"/>
@@ -641,6 +642,9 @@
 	</treediff>
 	<treediff id="142">
 		<item listmode="stemleft"/>
+	</treediff>
+	<treediff id="172">
+		<item calign="branch_nearest" listmode="stemleft"/>
 	</treediff>
 	<treediff id="28">
 		<item calign="branch_nearest"/>
